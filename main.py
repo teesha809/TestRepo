@@ -13,3 +13,6 @@ def sub(a,b):
 def mul(a,b):
     """Function for multiplication"""
     return a*b
+  
+def divide(a,b):
+    return a//b
