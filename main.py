@@ -15,4 +15,5 @@ def mul(a,b):
     return a*b
   
 def divide(a,b):
+    """Division"""
     return a//b
